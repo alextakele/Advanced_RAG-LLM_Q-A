@@ -4,9 +4,9 @@
 
 Retrieval Augmented Generation (RAG) is a methodology that combines elements of information retrieval and natural language generation to improve the quality and relevance of generated text, particularly in the context of complex language tasks like question-answering, summarization, and text completion.
 
-- **[Blog post**: (https://medium.com/@alextakele16/rag-based-llm-applications-for-contract-advisory-31bc77b81e72)
+- **Blog post**: https://medium.com/@alextakele16/rag-based-llm-applications-for-contract-advisory-31bc77b81e72
   
-- **GitHub repository**: [https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer]
+- **GitHub repository**: https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer
   
 - **Interactive notebook**: https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer/RAG_Q&A.ipynb
   
