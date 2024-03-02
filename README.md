@@ -30,11 +30,15 @@ I am using [OpenAI](https://platform.openai.com/docs/models/) to access ChatGPT 
 #### List of Tech Stacks I used and you should read more before using this github code.
 
 [LLM: OpenAI GPT-3.5-turb](https://www.smashingmagazine.com/2024/01/guide-retrieval-augmented-generation-language-models/)
-[Langchain : Build LLM applications]
-[RAGAS: Evaluation Framework]
-##### [FAISS: Vector store]
-##### [text-embedding-ada-002: OpenAIEmbeddings]
-#### [RecursiveCharacterTextSplitter: Text Splitter]
+[Langchain : Build LLM applications](https://www.analyticsvidhya.com/blog/2023/07/building-llm-powered-applications-with-langchain/)
+
+[RAGAS: Evaluation Framework](https://docs.ragas.io/en/latest/howtos/integrations/llamaindex.html)
+
+[FAISS: Vector store](https://faiss.ai/index.html)
+
+[text-embedding-ada-002: OpenAIEmbeddings](https://platform.openai.com/docs/guides/embeddings)
+
+[RecursiveCharacterTextSplitter: Text Splitter](https://api.python.langchain.com/en/latest/text_splitter/langchain.text_splitter.RecursiveCharacterTextSplitter.html)
 ### Repository
 ```bash
 git clone https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer
