@@ -1,9 +1,6 @@
 # Predicting the Types of Intimate Partner Violence against Married Women in Ethiopia using  Ensemble Machine Learning Algorithms 
 This repository contains data's of Intimate Partner Violence  (IPV) and implementing with Python programming languages primarily used to predict  IPV against women. 
-The study is based on data gathered from the Ethiopian demographic, health survey (EDHS) collected two times with five-year intervals of 2011 and 2016 E.C. 
-
-The study was conducted following an experimental research approach. 
-The ensemble ML algorithms such as extreme gradient boosting, CatBoost, Random Forest, and support Vector Machine with class decomposition One versus Rest (OVR) were employed to develop a prediction model. 
+Retrieval Augmented Generation (RAG) is a methodology that combines elements of information retrieval and natural language generation to improve the quality and relevance of generated text, particularly in the context of complex language tasks like question-answering, summarization, and text completion.
 
 For constructing the proposed model, experiments were conducted with a total of 35185 instances with 22 features, and a training and testing dataset split ratio of 80/20.
 
