@@ -19,7 +19,6 @@ In this github code, we will learn how to:
 - Serve the application in a highly scalable and available manner.
 <br>
 <img width="800" src="https://images.ctfassets.net/xjan103pcp94/7FWrvPPlIdz5fs8wQgxLFz/fdae368044275028f0544a3d252fcfe4/image15.png">
-
 ## Setup
 ### API keys
 I am using [OpenAI](https://platform.openai.com/docs/models/) to access ChatGPT models like `gpt-3.5-turbo`, `gpt-4`, etc. 
