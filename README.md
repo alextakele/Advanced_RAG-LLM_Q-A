@@ -38,21 +38,27 @@ I am using [OpenAI](https://platform.openai.com/docs/models/) to access ChatGPT 
 </ul>
 
 </details>
-###  List of Tech Stacks I used and you should read more before using this github code.
+#### List of Tech Stacks I used and you should read more before using this github code.
+
 #### LLM: OpenAI GPT-3.5-turbo
+
 #### Langchain : Build LLM applications
+
 #### RAGAS: Evaluation Framework
+
 #### FAISS: Vector store
+
 #### text-embedding-ada-002: OpenAIEmbeddings
+
 #### RecursiveCharacterTextSplitter: Text Splitter
+
 
 ### Repository
 ```bash
 git clone https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer
 
 ```
-### Data
-my data is Legally secured and use your own data 
+### Installation 
 ```bash
 git clone https://github.com/ray-project/llm-applications.git .
 ```
@@ -67,7 +73,6 @@ export PYTHONPATH=$PYTHONPATH:$PWD
 pre-commit install
 pre-commit autoupdate
 ```
-
 ### Credentials
 ```bash
 touch .env
@@ -79,7 +84,7 @@ source .env
 # Hi, I am the author of this project! 👋
 
 ## Authors Github
-- [@Alexander  Mengesha](https://www.github.com/alextakele)
+- [@Alexander  Mengesha]
   
 - [Github](https://www.github.com/alextakele)
 
