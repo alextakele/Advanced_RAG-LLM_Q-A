@@ -10,7 +10,6 @@ Retrieval Augmented Generation (RAG) is a methodology that combines elements of 
   
 - **Interactive notebook**: https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer/RAG_Q&A.ipynb
   
-
 In this github code, we will learn how to:
 
 - Develop a retrieval augmented generation (RAG) based LLM application from scratch.
@@ -18,7 +17,6 @@ In this github code, we will learn how to:
 - Evaluate different configurations of my application to optimize for both per-component (ex. retrieval_score) and overall performance (quality_score).
 - Implement LLM hybrid routing approach to bridge the gap b/w OSS and closed LLMs.
 - Serve the application in a highly scalable and available manner.
-- Share the 1st order and 2nd order impacts LLM applications have had on my products.
 <br>
 <img width="800" src="https://images.ctfassets.net/xjan103pcp94/7FWrvPPlIdz5fs8wQgxLFz/fdae368044275028f0544a3d252fcfe4/image15.png">
 
