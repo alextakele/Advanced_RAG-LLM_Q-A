@@ -8,7 +8,6 @@ Retrieval Augmented Generation (RAG) is a methodology that combines elements of 
 - **Interactive notebook**: https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer/RAG_Q&A.ipynb
 
 In this github code, we will learn how to:
-
 - Develop a retrieval augmented generation (RAG) based LLM application from scratch.
 - Scale the major components (load, chunk, embed, index, Retriev,Generate, and Evaluate etc.) in my application.
 - Evaluate different configurations of my application to optimize for both per-component (ex. retrieval_score) and overall performance (quality_score).
@@ -19,16 +18,13 @@ In this github code, we will learn how to:
 <img width="800" src="https://images.ctfassets.net/xjan103pcp94/7FWrvPPlIdz5fs8wQgxLFz/fdae368044275028f0544a3d252fcfe4/image15.png">
 
 ## Setup
-
 ### API keys
 I am using [OpenAI](https://platform.openai.com/docs/models/) to access ChatGPT models like `gpt-3.5-turbo`, `gpt-4`, etc. 
-
 ### Compute
 <details>
   <summary>Local</summary>
   You could run this on your local laptop but a we highly recommend using a setup with access to GPUs. You can set this up on your own or on [Anyscale](http://anyscale.com/).
 </details>
-
 <details open>
   <summary>Anyscale</summary><br>
 <ul>
@@ -36,28 +32,17 @@ I am using [OpenAI](https://platform.openai.com/docs/models/) to access ChatGPT 
 <li>Use the <a href="https://docs.anyscale.com/reference/base-images/ray-262/py39#ray-2-6-2-py39"><code>default_cluster_env_2.6.2_py39</code></a> cluster environment.</li>
 <li>Use the <code>us-west-2</code> if you&#39;d like to use the artifacts in my shared storage (source docs, vector DB dumps, etc.).</li>
 </ul>
-
 </details>
-
-### List of Tech Stacks I used and you should read more before using this github code.
-
-##### -LLM: OpenAI GPT-3.5-turbo
-
-##### -Langchain : Build LLM applications
-
-##### -RAGAS: Evaluation Framework
-
-##### -FAISS: Vector store
-
-##### -text-embedding-ada-002: OpenAIEmbeddings
-
-#### -RecursiveCharacterTextSplitter: Text Splitter
-
-
+#### List of Tech Stacks I used and you should read more before using this github code.
+###### -LLM: OpenAI GPT-3.5-turbo(
+###### -Langchain : Build LLM applications
+###### -RAGAS: Evaluation Framework
+###### -FAISS: Vector store
+###### -text-embedding-ada-002: OpenAIEmbeddings
+##### -RecursiveCharacterTextSplitter: Text Splitter
 ### Repository
 ```bash
 git clone https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer
-
 ```
 ### Installation 
 ```bash
@@ -85,10 +70,8 @@ source .env
 # Hi, I am the author of this project! 👋
 
 ## Authors Github
-- [@Alexander  Mengesha]
-  
+- Alexander  Mengesha
 - [Github](https://www.github.com/alextakele)
-
 - [Linkedin](https://www.linkedin.com/in/alextakele)
 
 # Acknowledgements
