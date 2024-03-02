@@ -1,4 +1,5 @@
 # Predicting the Types of Intimate Partner Violence against Married Women in Ethiopia using  Ensemble Machine Learning Algorithms 
+
 This repository contains data's of Intimate Partner Violence  (IPV) and implementing with Python programming languages primarily used to predict  IPV against women. 
 Retrieval Augmented Generation (RAG) is a methodology that combines elements of information retrieval and natural language generation to improve the quality and relevance of generated text, particularly in the context of complex language tasks like question-answering, summarization, and text completion.
 
