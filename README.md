@@ -38,19 +38,20 @@ I am using [OpenAI](https://platform.openai.com/docs/models/) to access ChatGPT 
 </ul>
 
 </details>
-#### List of Tech Stacks I used and you should read more before using this github code.
 
-#### LLM: OpenAI GPT-3.5-turbo
+### List of Tech Stacks I used and you should read more before using this github code.
 
-#### Langchain : Build LLM applications
+##### -LLM: OpenAI GPT-3.5-turbo
 
-#### RAGAS: Evaluation Framework
+##### -Langchain : Build LLM applications
 
-#### FAISS: Vector store
+##### -RAGAS: Evaluation Framework
 
-#### text-embedding-ada-002: OpenAIEmbeddings
+##### -FAISS: Vector store
 
-#### RecursiveCharacterTextSplitter: Text Splitter
+##### -text-embedding-ada-002: OpenAIEmbeddings
+
+#### -RecursiveCharacterTextSplitter: Text Splitter
 
 
 ### Repository
