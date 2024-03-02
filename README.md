@@ -3,11 +3,16 @@
 ### Overview
 
 Retrieval Augmented Generation (RAG) is a methodology that combines elements of information retrieval and natural language generation to improve the quality and relevance of generated text, particularly in the context of complex language tasks like question-answering, summarization, and text completion.
+
 - **[Blog post**: (https://medium.com/@alextakele16/rag-based-llm-applications-for-contract-advisory-31bc77b81e72)
+- 
 - **GitHub repository**: [https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer]
+- 
 - **Interactive notebook**: https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer/RAG_Q&A.ipynb
+- 
 
 In this github code, we will learn how to:
+
 - Develop a retrieval augmented generation (RAG) based LLM application from scratch.
 - Scale the major components (load, chunk, embed, index, Retriev,Generate, and Evaluate etc.) in my application.
 - Evaluate different configurations of my application to optimize for both per-component (ex. retrieval_score) and overall performance (quality_score).
@@ -34,7 +39,8 @@ I am using [OpenAI](https://platform.openai.com/docs/models/) to access ChatGPT 
 </ul>
 </details>
 #### List of Tech Stacks I used and you should read more before using this github code.
-###### -LLM: OpenAI GPT-3.5-turbo(
+
+###### -LLM: OpenAI GPT-3.5-turb
 ###### -Langchain : Build LLM applications
 ###### -RAGAS: Evaluation Framework
 ###### -FAISS: Vector store
