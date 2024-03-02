@@ -4,27 +4,24 @@
 
 Retrieval Augmented Generation (RAG) is a methodology that combines elements of information retrieval and natural language generation to improve the quality and relevance of generated text, particularly in the context of complex language tasks like question-answering, summarization, and text completion.
 - **[Blog post**: (https://medium.com/@alextakele16/rag-based-llm-applications-for-contract-advisory-31bc77b81e72)
-- 
-- **GitHub repository**: [https://github.com/alextakele/llm-applications](https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer)
-- **Interactive notebook**: https://github.com/RAG_Q&A.ipynb
-
+- **GitHub repository**: [https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer]
+- **Interactive notebook**: https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer/RAG_Q&A.ipynb
 
 In this github code, we will learn how to:
 
-- 💻 Develop a retrieval augmented generation (RAG) based LLM application from scratch.
-- 🚀 Scale the major components (load, chunk, embed, index, Retriev,Generate, and Evaluate etc.) in my application.
-- ✅ Evaluate different configurations of my application to optimize for both per-component (ex. retrieval_score) and overall performance (quality_score).
-- 🔀 Implement LLM hybrid routing approach to bridge the gap b/w OSS and closed LLMs.
-- 📦 Serve the application in a highly scalable and available manner.
-- 💥 Share the 1st order and 2nd order impacts LLM applications have had on my products.
-
+- Develop a retrieval augmented generation (RAG) based LLM application from scratch.
+- Scale the major components (load, chunk, embed, index, Retriev,Generate, and Evaluate etc.) in my application.
+- Evaluate different configurations of my application to optimize for both per-component (ex. retrieval_score) and overall performance (quality_score).
+- Implement LLM hybrid routing approach to bridge the gap b/w OSS and closed LLMs.
+- Serve the application in a highly scalable and available manner.
+- Share the 1st order and 2nd order impacts LLM applications have had on my products.
 <br>
 <img width="800" src="https://images.ctfassets.net/xjan103pcp94/7FWrvPPlIdz5fs8wQgxLFz/fdae368044275028f0544a3d252fcfe4/image15.png">
 
 ## Setup
 
 ### API keys
-I'll be using [OpenAI](https://platform.openai.com/docs/models/) to access ChatGPT models like `gpt-3.5-turbo`, `gpt-4`, etc. and [Anyscale Endpoints](https://endpoints.anyscale.com/) to access OSS LLMs like `Llama-2-70b`. Be sure to create your accounts for both and have your credentials ready.
+I am using [OpenAI](https://platform.openai.com/docs/models/) to access ChatGPT models like `gpt-3.5-turbo`, `gpt-4`, etc. 
 
 ### Compute
 <details>
@@ -51,7 +48,7 @@ I'll be using [OpenAI](https://platform.openai.com/docs/models/) to access ChatG
 
 ### Repository
 ```bash
-git clone https://github.com/alextakele/llm-applications.git .
+git clone https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer
 
 ```
 ### Data
