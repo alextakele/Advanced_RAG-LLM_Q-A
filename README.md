@@ -5,11 +5,11 @@
 Retrieval Augmented Generation (RAG) is a methodology that combines elements of information retrieval and natural language generation to improve the quality and relevance of generated text, particularly in the context of complex language tasks like question-answering, summarization, and text completion.
 
 - **[Blog post**: (https://medium.com/@alextakele16/rag-based-llm-applications-for-contract-advisory-31bc77b81e72)
-- 
+  
 - **GitHub repository**: [https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer]
-- 
+  
 - **Interactive notebook**: https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer/RAG_Q&A.ipynb
-- 
+  
 
 In this github code, we will learn how to:
 
@@ -25,27 +25,22 @@ In this github code, we will learn how to:
 ## Setup
 ### API keys
 I am using [OpenAI](https://platform.openai.com/docs/models/) to access ChatGPT models like `gpt-3.5-turbo`, `gpt-4`, etc. 
-### Compute
-<details>
-  <summary>Local</summary>
-  You could run this on your local laptop but a we highly recommend using a setup with access to GPUs. You can set this up on your own or on [Anyscale](http://anyscale.com/).
-</details>
-<details open>
-  <summary>Anyscale</summary><br>
-<ul>
+
+
 <li>Start a new <a href="https://console.anyscale-staging.com/o/anyscale-internal/workspaces">Anyscale workspace on staging</a> using an <a href="https://instances.vantage.sh/aws/ec2/g3.8xlarge"><code>g3.8xlarge</code></a> head node, which has 2 GPUs and 32 CPUs. We can also add GPU worker nodes to run the workloads faster. If you&#39;re not on Anyscale, you can configure a similar instance on your cloud.</li>
 <li>Use the <a href="https://docs.anyscale.com/reference/base-images/ray-262/py39#ray-2-6-2-py39"><code>default_cluster_env_2.6.2_py39</code></a> cluster environment.</li>
 <li>Use the <code>us-west-2</code> if you&#39;d like to use the artifacts in my shared storage (source docs, vector DB dumps, etc.).</li>
 </ul>
 </details>
+
 #### List of Tech Stacks I used and you should read more before using this github code.
 
-###### -LLM: OpenAI GPT-3.5-turb
-###### -Langchain : Build LLM applications
-###### -RAGAS: Evaluation Framework
-###### -FAISS: Vector store
-###### -text-embedding-ada-002: OpenAIEmbeddings
-##### -RecursiveCharacterTextSplitter: Text Splitter
+##### -LLM: OpenAI GPT-3.5-turb
+##### -Langchain : Build LLM applications
+##### -RAGAS: Evaluation Framework
+##### -FAISS: Vector store
+##### -text-embedding-ada-002: OpenAIEmbeddings
+#### -RecursiveCharacterTextSplitter: Text Splitter
 ### Repository
 ```bash
 git clone https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer
