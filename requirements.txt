@@ -1,0 +1,23 @@
+# requirements.txt
+langchain
+langchain-openai
+langchain-core
+langchain-community
+langchainhub
+openai
+ragas
+python-docx
+tiktoken
+cohere
+faiss_cpu
+tiktoken
+rank-bm25
+fastapi
+matplotlib
+pre-commit
+python-dotenv
+seaborn
+sentence-transformers
+streamlit
+datasets
+faiss-gpu
