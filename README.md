@@ -18,8 +18,7 @@ In this github code, we will learn how to:
 - Evaluate different configurations of my application to optimize for both per-component (ex. retrieval_score) and overall performance (quality_score).
 - Implement LLM hybrid routing approach to bridge the gap b/w OSS and closed LLMs.
 - Serve the application in a highly scalable and available manner.
-  (https://github.com/alextakele/Advanced_RAG-LLM_Q-A/assets/67500303/9c4e2608-540f-4f5e-83c9-89c96bb873c8)
-
+  
 ## Setup
 ### API keys
 I am using [OpenAI](https://platform.openai.com/docs/models/) to access ChatGPT models like `gpt-3.5-turbo`, `gpt-4`, etc. 
