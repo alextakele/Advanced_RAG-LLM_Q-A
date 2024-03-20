@@ -18,7 +18,7 @@ In this github code, we will learn how to:
 - Implement LLM hybrid routing approach to bridge the gap b/w OSS and closed LLMs.
 - Serve the application in a highly scalable and available manner.
 <br>
-<img width="800" src="https://images.ctfassets.net/xjan103pcp94/7FWrvPPlIdz5fs8wQgxLFz/fdae368044275028f0544a3d252fcfe4/image15.png">
+![image](https://github.com/alextakele/Advanced_RAG-LLM_Q-A/assets/67500303/9c4e2608-540f-4f5e-83c9-89c96bb873c8)
 
 ## Setup
 ### API keys
