@@ -1,5 +1,6 @@
 ## Building Advanced Retreival Augemented Generation based LLM Applications of Questions and Answers System
-
+The General workflow of RAG Implementations 
+![image](https://github.com/alextakele/Advanced_RAG-LLM_Q-A/assets/67500303/9c4e2608-540f-4f5e-83c9-89c96bb873c8)
 ### Overview
 
 Retrieval Augmented Generation (RAG) is a methodology that combines elements of information retrieval and natural language generation to improve the quality and relevance of generated text, particularly in the context of complex language tasks like question-answering, summarization, and text completion.
